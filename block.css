@@ -1,0 +1,9 @@
+body {
+    display: none;
+    background-color:#A5E1AD ;
+    color: #02475E;
+  }
+  
+  body.unblocked {
+    display: block;
+  }
